@@ -1,4 +1,4 @@
-# Compiled Object files, Static and Dynamic libs (Shared Objects)
+  Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
 *.so
@@ -38,3 +38,4 @@ profile/*
 /gocron-node-package
 
 node_modules
+ 
